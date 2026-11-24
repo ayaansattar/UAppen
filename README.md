@@ -123,3 +123,8 @@ uvicorn app.main:app --reload
 npx expo start
 ```
 
+
+
+## Contributors
+
+- [Shehroz Asim (@Shehroz68)](https://github.com/Shehroz68) contributed to the FastAPI event pipeline, campus location parsing, and event categorization.
